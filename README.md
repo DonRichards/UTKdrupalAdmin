@@ -1,2 +1,2 @@
 # UTKdrupalAdmin
-UTK Admin Theme based on Shiny (Administration theme)
+UTK Admin Theme based on UTKdrupalAdmin (Administration theme)
